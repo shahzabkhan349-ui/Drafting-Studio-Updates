@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "releaseNotes": "Baseline metadata only. No newer signed release is published yet.",
+  "versionCode": 3,
+  "versionName": "1.2",
+  "releaseNotes": "Drafting Studio v1.2 includes the in-app update installer.",
   "apkUrl": "",
   "minimumSupportedVersionCode": 1
 }
