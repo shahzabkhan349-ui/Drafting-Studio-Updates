@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "1.10",
   "releaseNotes": "New Drafting Studio update. Install from Settings → App Updates.",
-  "apkUrl": "https://github.com/shahzabkhan349-ui/Drafting-Studio-Updates/releases/download/v1.9/app-release.apk",
+  "apkUrl": "https://github.com/shahzabkhan349-ui/Drafting-Studio-Updates/releases/download/v1.10/app-release.apk",
   "minimumSupportedVersionCode": 1
 }
